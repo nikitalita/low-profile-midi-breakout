@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: Din Receptacle, Vertical, PCB  5P
+3DX_CUI_DEVICES_Model Number: SD-50BV
