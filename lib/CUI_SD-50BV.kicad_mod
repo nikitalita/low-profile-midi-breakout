@@ -1,6 +1,6 @@
 (footprint "CUI_SD-50BV" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62383850)
+  (tedit 624923A5)
   (attr through_hole)
   (fp_text reference "REF**" (at 0.13524 -9.30452) (layer "F.SilkS")
     (effects (font (size 1.007465 1.007465) (thickness 0.15)))
@@ -23,7 +23,7 @@
   (pad "4" thru_hole circle (at -3.89 3.89) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask) (tstamp d8846892-c26d-48c2-9db2-ed349a043b8a))
   (pad "5" thru_hole circle (at -3.89 -3.89) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask) (tstamp 2b81d244-4009-4bd7-9595-b8d96120692a))
   (pad "S" thru_hole circle (at 4.5 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask) (tstamp 3904811d-2e8c-4590-a4e1-7ede84266bb4))
-  (model "C:/workspace/midi-panel-mounted-breakout-3.3v/lib/CUI_DEVICES_SD-50BV.step"
+  (model "${KIPRJMOD}/../lib/CUI_DEVICES_SD-50BV.step"
     (offset (xyz 0 0 16))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
